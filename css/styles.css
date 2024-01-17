@@ -1,5 +1,32 @@
 @charset "UTF-8";
 
-h1 {
-    color: red;
+/* GLOBAL */
+* {
+    font-family: 'lato',  sans-serif;
+
+}
+
+bg-primary-color {
+    background-color: #fff;
+}
+
+bg-secundary-color {
+    background-color: #ece8ea ;
+}
+
+bg-dark-color {
+    background-color: #050505;
+}
+
+.primary-color {
+    color: #050505;
+}
+.secundary-color {
+    color: #7a7a7a;
+}
+
+/* NAVBAR */
+
+#navbar {
+    border-bottom: 1px solid #7a7a7a;
 }
